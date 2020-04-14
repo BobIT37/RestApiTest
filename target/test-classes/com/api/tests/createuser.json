@@ -1,0 +1,13 @@
+{
+
+            "first_name": "Martin",
+            "last_name": "Tylor",
+            "gender": "male",
+            "dob": "1965-01-02",
+            "email": "martin@example.org",
+            "phone": "974.201.9165 x9065",
+            "website": "http://learnsdetsdet.com",
+            "address": "75 Belmont Ave Springs\nRichmondchester, NJ 07508",
+            "status": "active"
+
+}
